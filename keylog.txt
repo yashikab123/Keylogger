@@ -1,0 +1,1 @@
+ [Key.cmd] klgndfgndne [Key.ctrl_l]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc]  [Key.esc] 
